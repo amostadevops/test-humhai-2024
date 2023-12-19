@@ -1,0 +1,92 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.hindi
+{
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+.gujarati
+{
+    font-family: 'Noto Sans Gujarati', sans-serif;
+}
+
+.bengali
+{
+    font-family: 'Noto Sans Bengali', sans-serif;
+}
+
+.tamil
+{
+    font-family: 'Noto Sans Tamil', sans-serif; 
+}
+
+.telugu
+{
+    font-family: 'Noto Sans Telugu', sans-serif;
+}
+
+.kannada
+{
+    font-family: 'Noto Sans Kannada', sans-serif;
+}
+
+.malayalam
+{
+    font-family: 'Noto Sans Malayalam', sans-serif;
+}
+
+.urdu
+{
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
+
+.marathi
+{
+    font-family: 'Tiro Devanagari Marathi', serif;
+}
+
+.odia
+{
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.ticker-all-language
+{
+    /* background-color: #f16136; */
+    color: white !important;
+    /* line-height: 20px;
+    padding-top: 2px;
+    align-items: center;
+    justify-content: center; */
+}
+
+.main-title
+{
+    background-color: #f16136;
+    color: white !important;
+    border-radius: 5px;
+}
+
+.search-box-main
+{
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid darkgrey;
+}
+
+.card-text-location
+{
+    color:black !important;
+}
+
+.slider-demo
+{
+    width: 80%;
+    /* background-color: aqua; */
+}
